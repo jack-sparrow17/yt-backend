@@ -1,0 +1,24 @@
+{
+  "name": "yt-backend",
+  "version": "1.0.0",
+  "description": "backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-sparrow17/yt-backend.git"
+  },
+  "keywords": [
+    "git",
+    "javascript",
+    "backend"
+  ],
+  "author": "s.maity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack-sparrow17/yt-backend/issues"
+  },
+  "homepage": "https://github.com/jack-sparrow17/yt-backend#readme"
+}
